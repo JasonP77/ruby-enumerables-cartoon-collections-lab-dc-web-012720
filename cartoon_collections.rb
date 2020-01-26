@@ -11,10 +11,8 @@ def summon_captain_planet(arr)
 end
 
 def long_planeteer_calls(arr)
-  new_arr = []
   arr.each do |element|
     if element.length > 4 
-      new_arr << element
       return true
     else 
       return false
