@@ -16,10 +16,10 @@ def long_planeteer_calls(arr)
     if element.length > 4 
       new_arr << element
       return true
+    else 
+      return false
     end
-    false
   end
-
 end
 
 def find_the_cheese# code an argument here
