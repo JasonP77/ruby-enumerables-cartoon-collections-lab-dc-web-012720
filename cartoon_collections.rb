@@ -15,7 +15,7 @@ def long_planeteer_calls(arr)
     if element.length > 4 
       return true
     else 
-      return false
+     false
     end
   end
 end
