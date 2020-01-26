@@ -17,7 +17,7 @@ def long_planeteer_calls(arr)
       new_arr << element
     end
   end
-    return new_arr
+    return true
 end
 
 def find_the_cheese# code an argument here
