@@ -16,6 +16,7 @@ def long_planeteer_calls(arr)
     if element.length > 4 
       new_arr << element
     end
+  end
     return new_arr
 end
 
